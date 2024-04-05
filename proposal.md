@@ -2,7 +2,7 @@ Propuesta TP DSW
 -
 Grupo
 -
-Integrantes:
+__Integrantes:__
 
 - 51805 - Angelini, Agustin. 
 
