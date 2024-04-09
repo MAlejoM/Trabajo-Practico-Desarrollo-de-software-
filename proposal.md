@@ -12,3 +12,21 @@ __Integrantes:__
 
 Tema
 -
+Gestion de un Centro deportivo
+
+Requerimientos
+-
+Gestion completa de usuarios por roles.
+  -  Miembro
+  -  Profesional
+  -  Administrativo.
+    
+Gestion de diferentes membresias.
+  -  Standard
+  -  Gold
+  -  Platinum
+
+Gestion de planes alimenticios personalizados.
+
+Gestion de compras de productos.
+
